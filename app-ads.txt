@@ -1590,6 +1590,8 @@ google.com,pub-9329149277210275,RESELLER,f08c47fec0942fa0
 
 google.com,pub-9469244224896360,RESELLER,f08c47fec0942fa0
 
+google.com, pub-8023737169457453, DIRECT, f08c47fec0942fa0
+
 gothamads.com, 1236, RESELLER, d9c86e5dec870222
 
 gothamads.com, 1950, RESELLER, d9c86e5dec870222
