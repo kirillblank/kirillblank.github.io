@@ -518,6 +518,8 @@ applovin.com,5c72b49c2b2ce6949bf0f98eafe9e417,RESELLER
 
 applovin.com,a97e4a2a60836795b8e1433cefd17f30,RESELLER
 
+applovin.com, a97e4a2a60836795b8e1433cefd17f30, DIRECT
+
 appnerve.com, 187287, RESELLER
 
 appnexus.com, 10824, RESELLER
